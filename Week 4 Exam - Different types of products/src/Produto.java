@@ -30,7 +30,6 @@ public class Produto {
         return codigo == produto.codigo;
     }
 
-    @Override
     public int hashCode() {
         return Objects.hash(codigo);
     }
