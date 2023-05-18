@@ -16,7 +16,4 @@ public class Autoridade {
 		return formatadorNome.formatarNome(nome, sobrenome);
 	}
 	
-	
-	
-
 }
