@@ -69,8 +69,8 @@ Providing the ability to:
 
 ## License 🧾
 
-Licensed under the **MIT**. See [LICENSE](LICENSE) for more informations.
+Licensed under the **MIT**. See [LICENSE](LICENSE.md) for more informations.
 
 ## Contact 📞
 
-See my contact information on my [github profile](https://github.com/bernardodangelo)
+See my contact information on my [GitHub profile](https://github.com/bernardodangelo).
