@@ -62,3 +62,7 @@ Providing the ability to:
 - Design and structure more flexible and low-coupling Java programs;
 
 - Ensure proper handling of exceptions in Java.
+
+## Certification 🎓
+
+!(https://github.com/bernardodangelo/object-oriented-java-ita/blob/main/Certification.png)
