@@ -66,3 +66,11 @@ Providing the ability to:
 ## Certification 🎓
 
 ![Certification](https://github.com/bernardodangelo/object-oriented-java-ita/blob/main/Certification.png)
+
+##License 🧾
+
+Licensed under the **MIT**. See [LICENSE](LICENSE) for more informations.
+
+##Contact 📞
+
+See my contact information on my [github profile](https://github.com/bernardodangelo)
