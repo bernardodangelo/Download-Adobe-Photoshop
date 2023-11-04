@@ -1,13 +1,13 @@
-# Object-Oriented Programming with Java by ITA ☕
+# Object-Oriented Programming with Java by ITA
 Repository for the Object-Oriented Programming with Java course by Instituto Tecnológico de Aeronáutica (ITA).
 
 [Coursera](https://www.coursera.org/learn/orientacao-a-objetos-com-java/home/info)
 
-## About the Course 📙
+## About the Course
 
 The objective of this course is to make you understand the principles of object-oriented programming through the Java language and know how to efficiently apply these principles in practice when designing and developing software in an agile way. The concepts discussed and experimented by you in this course will be the basis for you to be able to understand the new concepts presented in the following courses of this specialization.
 
-## Schedule 📅
+## Schedule
 
 #### 1st Module - Classes in Theory and in Java
 
@@ -63,14 +63,14 @@ Providing the ability to:
 
 - Ensure proper handling of exceptions in Java.
 
-## Certification 🎓
+## Certification
 
 ![Certification](https://github.com/bernardodangelo/object-oriented-java-ita/blob/main/Certification.png)
 
-## License 🧾
+## License
 
 Licensed under the **MIT**. See [LICENSE](LICENSE.md) for more informations.
 
-## Contact 📞
+## Contact
 
 See my contact information on my [GitHub profile](https://github.com/bernardodangelo).
